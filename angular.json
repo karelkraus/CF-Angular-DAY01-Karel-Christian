@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CF-Angular-DAY01-Karel-Christian"
+    }
+  },
+  "defaultProject": "CF-Angular-DAY01-Karel-Christian",
+  "cli": {
+    "analytics": false
+  }
 }
